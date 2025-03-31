@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toi-social-dashboard-demo/static/js/main.eb151627.js",
+    "index.html": "/toi-social-dashboard-demo/index.html",
+    "main.eb151627.js.map": "/toi-social-dashboard-demo/static/js/main.eb151627.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb151627.js"
+  ]
+}
